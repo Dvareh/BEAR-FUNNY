@@ -1,0 +1,126 @@
+#golova {
+	width: 900px;
+	height: 800px;
+	background-color: #66340a;
+	border-radius: 70%;
+	position: relative;
+	left: 450px;
+	top: 120px;
+	border: 10px solid black;
+	z-index: 2;
+}
+#uxo1 {
+z-index: 1;
+width: 150px;
+height: 150px;
+border-radius: 60%;
+background-color: #66340a;
+border:5px solid black;
+position: relative;
+bottom: 750px;
+left: 600px;
+}
+#uxo2 {
+z-index: 1;
+width: 150px;
+height: 150px;
+border-radius: 60%;
+background-color: #66340a;
+border:5px solid black;
+position: relative;
+bottom: 915px;
+left: 1050px;
+}
+#glaz1 {
+	background-color: black;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	border-radius: 60%;
+	position: relative;
+	bottom: 850px;
+	left: 700px;
+	z-index: 3;
+}
+#glaz2 {
+	background-color: black;
+	border-style: solid;
+	width: 100px;
+	height: 100px;
+	border-radius: 60%;
+	position: relative;
+	bottom: 955px;
+	left: 1000px;
+	z-index: 3;
+}
+#brow1 {
+	z-index: 4;
+	width: 200px;
+	height: 15px;
+	background-color: black;
+	border:2px solid black;
+	border-radius: 5px;
+	position: relative;
+	bottom: 1120px;
+	left: 650px;
+
+}
+#brow2 {
+	z-index: 4;
+	width: 200px;
+	height: 15px;
+	background-color: black;
+	border:2px solid black;
+	border-radius: 5px;
+	position: relative;
+	bottom: 1139px;
+	left: 950px;
+	
+}
+#guba1 {
+	 width: 220px;
+  height: 170px;
+  border-radius: 100px 100px 0 0;
+  border-top: 20px solid black;
+  border-left: 20px solid black;
+  border-right: 20px solid black;
+  transform: rotate(180deg);
+  position: relative;
+  bottom: 850px;
+  left: 780px;
+  z-index: 5;
+}
+#nos {
+	width: 150px;
+	height: 140px;
+	border-radius: 60%;
+	background-color: #82410a;
+	border: 5px solid black;
+	position: relative;
+	bottom: 1200px;
+	left: 830px;
+	z-index: 6;
+	}
+#nos1 {
+	width: 50px;
+	height: 50px;
+	border-radius: 60%;
+	background-color: black;
+	border: 5px solid black;
+	position: relative;
+	bottom: 1300px;
+	left: 840px;
+	z-index: 7;
+	}
+#nos2 {
+	width: 50px;
+	height: 50px;
+	border-radius: 60%;
+	background-color: black;
+	border: 5px solid black;
+	position: relative;
+	bottom: 1360px;
+	left: 920px;
+	z-index: 7;
+	}
+	
